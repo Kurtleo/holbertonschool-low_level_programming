@@ -1,10 +1,12 @@
-#include <stdio.h>
+#include <stdio>
 
 /**
- * main -main function
+ *
+ * main - main function
  *
  * Return: always 0
  */
+
 int main(void)
 {
 	char i;
@@ -12,6 +14,7 @@ int main(void)
 	for (i = 'a' ; i <= 'z' ; i++)
 		putchar(i);
 	for (i = 'A' ; i <= 'Z' ; i++)
-		puthar(i);
-	putchar('\n');
-	return (0);|
+		putchar(i);
+	putchar('\n'):
+	return (0);
+}
