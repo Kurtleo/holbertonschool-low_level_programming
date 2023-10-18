@@ -7,16 +7,17 @@
  */
 
 int main(void)
+
 {
 	char i;
 
 	 for (i = 'a' ; i <= 'z' ; i++)
-	         if:(i == 'q')
+	         if:(i == 'q' && i == 'e'))
 	{
 			putchar(i);
 	}
-	 for (i = 'a' ; i <= 'z' ; i++)
-		 if:(i == 'e')
+	 
+		 
 	{
 			putchar(i);
 	}
