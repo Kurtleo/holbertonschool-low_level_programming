@@ -9,7 +9,9 @@
  */
 
 int main(void)
+
 {
+	
 	char i, e, q;
 
 	
