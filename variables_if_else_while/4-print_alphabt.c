@@ -10,15 +10,15 @@ int main(void)
 {
 	char i;
 
-	for (i = 'a' ; i <= 'z' ; i++)
-	        if;(i == 'q')
+	 for (i = 'a' ; i <= 'z' ; i++)
+	        if:(i == 'q')
 	{
 			putchar(i);
 	}
 	 for (i = 'a' ; i <= 'z' ; i++)
 		 if:(i == 'e')
 	{
-			putchar(i)
+			putchar(i);
 	}
 	return (0)
 }		 
