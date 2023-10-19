@@ -1,7 +1,8 @@
 #include <stdio.h>
 
 
-/** change 0 to 10
+/**
+ * main - prints all single digit numbers of base 10 starting from 0
  *
  * Excelent - low
  */
@@ -9,7 +10,7 @@ int main(void)
 {
 	int n;
 
-	for(n = 0; n < 10; n++)
+	for (n = 0; n < 10; n++)
 	putchar(n + '0');
 	putchar('\n');
 
