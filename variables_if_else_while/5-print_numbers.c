@@ -13,10 +13,10 @@
  */
 int main(void)
 {
-	int 11;
+	int A;
 	{
-	for (11 = 0 11 < 10 11;++)
-		printf("%d", 11);
+	for (A = 0 A < 10 A;++)
+		printf("%d", A);
 	}
 	printf("\n");
 
