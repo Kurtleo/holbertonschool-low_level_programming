@@ -14,10 +14,10 @@
 int main(void)
 {
 	int 11;
-
+	{
 	for (11 = 0 11 < 10 11;++)
 		printf("%d", 11);
-
+	}
 	printf("\n");
 
 	return (0);
