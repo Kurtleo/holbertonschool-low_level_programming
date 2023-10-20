@@ -8,7 +8,7 @@
  */
 int main(void)
 {
-	printf('_');('p');('u');('t');('c');('h');('a');('r')/n
+	printf("_putchar\n");
 
 	return (0);
 
