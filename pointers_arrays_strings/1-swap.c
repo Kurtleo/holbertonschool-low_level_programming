@@ -6,7 +6,7 @@
  * @a: An integer input pointer
  * @b: An integer input pointer
  *
- * Return: nothing
+ * Return: void
  */
 void swap_int(int *a, int *b)
 {
