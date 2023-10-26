@@ -13,9 +13,11 @@ void print_rev(char *s)
 
 	while (i >= 0)
 	{
+	
 		_putchar(s[i]);
 		i--;
 	}
+	_putchar('\n');
 }
 /**
  * _strlen - write a function that returns the length of a string.
